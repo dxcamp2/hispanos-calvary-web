@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dxcamp2.hispanoscalvary",
+      "sha256_cert_fingerprints": [
+        "7C:33:58:B3:53:1D:DC:4A:71:F4:1F:52:95:7A:3D:F7:D9:85:4D:5A:DC:F9:2C:8B:2A:AE:F5:4C:08:50:78:83"
+      ]
+    }
+  }
+]
